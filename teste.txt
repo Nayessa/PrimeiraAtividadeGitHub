@@ -5,3 +5,4 @@ alterações
 filipe
 Marcos Vinicius esteve aqui.
 >>>>>>> 1eddfc29af2c11113725736d8c6f9d0ea06ac4e1
+filipe²
